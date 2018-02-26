@@ -1,0 +1,5 @@
+resolver: lts-10.7
+packages:
+  - .
+extra-deps:
+  - CC-delcont-0.2.1.0
